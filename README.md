@@ -1,6 +1,5 @@
 # SouthcoastSummit21
-Tl;dr
-Recommendated learning material for the PL-200 certification
+**Tl;dr - Recommendated learning material for the PL-200 certification**
 
 
 The Southcoast Summit 2021 was two weeks ago and Malin Martnes and I delivered a session about what you need to know before taking the Microsoft PL-200 exam. During our session we gave a lot of recommendations of who to follow, what blogs to read and what videos might be helpful. 
