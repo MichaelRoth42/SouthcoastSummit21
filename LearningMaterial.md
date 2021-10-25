@@ -1,8 +1,8 @@
 **People to follow / blogs**
 | Name   | link
 | :------------- | :---------- 
-|  Julian Sharp| https://crmchap.co.uk/about/
-| Joe Griffin (The CRM Chap)   | https://crmchap.co.uk/about/
+|  Julian Sharp| https://crmchap.co.uk/
+| Joe Griffin (The CRM Chap)   | http://ukcrm.wordpress.com/
 | Emma D’Arcy (Tattooed CRM Girl)  | https://tattooedcrmgirl.com/2020/06/18/getting-started-with-power-virtual-agents/
 | Rebekka Aalbers (Power Platform Unicorn)   | https://www.powerplatformunicorn.com/
 | Elaiza Benitez   | https://benitezhere.blogspot.com/
